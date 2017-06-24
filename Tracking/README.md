@@ -1,4 +1,4 @@
-# Assist Worm Tracking with Deep Convolutional Neural Network
+## Assist Worm Tracking with Deep Convolutional Neural Network
 
 This project aims to assist worm tracking using deep learning methods instead of classical image processing algorithms. 
 
